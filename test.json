@@ -1,0 +1,8 @@
+{   
+   "description": "Test NFT",      
+   "image": "https://sun9-79.vkuserphoto.ru/impg/6RsDyvV_JM3XRRRxY1kJBWmqJmkvruMv7zKWGw/BmmrQLIpsUo.jpg?size=2560x1810&quality=96&sign=54bd6f9b1b6d5aa22de8c5d23be772ed&type=album",  
+   "name": "Soulbound NFT",   
+   "attributes": [
+       { "trait_type": "Type", "value": "Value" }
+   ]
+}
